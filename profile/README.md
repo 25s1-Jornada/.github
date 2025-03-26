@@ -1,4 +1,4 @@
-## <code style="color : red">Jornada 2025 Primeiro semestre</code>
+## $${\color{Jornada 2025 Primeiro semestre}Red}$$
 
 Bem vindo ao github da Jornada de Engenharia de Software 7 periodo.
 <!--
