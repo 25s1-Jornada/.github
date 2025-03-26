@@ -1,4 +1,4 @@
-## $${\color{Jornada 2025 Primeiro semestre}Red}$$
+## $${\color{red}Jornada 2025 Primeiro semestre}$$
 
 Bem vindo ao github da Jornada de Engenharia de Software 7 periodo.
 <!--
