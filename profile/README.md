@@ -1,4 +1,4 @@
-# $${\color{red}Jornada 2025 Primeiro semestre}$$
+#   <i class="fas fa-lightbulb"></i> Jornada 2025 Primeiro semestre
 
 Bem-vindo ao github da Jornada de Engenharia de Software 7º período. Aqui se encontra os projetos da NoWaste e da Fast e os alunos são responsáveis na produção e na gerencia dos mesmos
 
