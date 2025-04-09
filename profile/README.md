@@ -1,10 +1,10 @@
-# <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> Jornada 2025 Primeiro semestre
+# 💡Jornada 2025 Primeiro semestre
 
 Bem-vindo ao github da Jornada de Engenharia de Software 7º período. Aqui se encontra os projetos da NoWaste e da Fast e os alunos são responsáveis na produção e na gerencia dos mesmos
 
-## $${\color{blue}Gestão: }$$
+## 🧑‍💼Gestão:
 Time responsável por gerir os outros grupos e por entrar em contato com o cliente.
-## $${\color{grey}Q.A : }$$
+## 🏆 Q.A :
 Time responsável por testar os projetos para garantir o seu funcionamento
 ## $${\color{green}NoWaste: }$$
 Time responsável pelos projetos voltados para stand-up NoWaste que busca trazer um meio alternativo e que aproveita mais dos materiais para produzir camisetas dentre esses projetos se encontra os seguintes:
