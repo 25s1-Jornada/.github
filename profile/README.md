@@ -4,20 +4,49 @@ Bem-vindo ao github da Jornada de Engenharia de Software 7º período. Aqui se e
 
 ## 🧑‍💼Gestão:
 Time responsável por gerir os outros grupos e por entrar em contato com o cliente.
+### Gestão NoWaste:
+* Arthur Miguel Borges Monteiro
+* Guilherme Covaleki
+* Matheus Terziotti Silva
+### Gestão FAST:
+* Nicolas Lopes Ferracioli
+* Felipe Henrique Augustinho Palhares
+* Leonardo Velani
 ## 🏆 Q.A :
-Time responsável por testar os projetos para garantir o seu funcionamento
+Time responsável por testar os projetos para garantir o seu funcionamento.
+### Q.A NoWaste:
+* Lucas Campos Goshi
+* Nicolas Augusto Bastos da Silveira
+* Victor Hugo Max e Silva
+### Q.A FAST:
+* Danilo Cossiolo Dias
+* Gustavo da Silva Corsino
+* Lucas Kiyoshi Ota Porpeta
 ## 👕🌱​NoWaste:
 Time responsável pelos projetos voltados para stand-up NoWaste que busca trazer um meio alternativo e que aproveita mais dos materiais para produzir camisetas dentre esses projetos se encontra os seguintes:
-
 ### Front-End:
-
+* Alisson Oliveira
+* Gabriel Gonçalves
+* Pedro Frasson
+* Felipe_Bueno
 ### Bin-Pack:
-
+* Vinícius de Morais Boim dos Santos
+* Huan Radov Luchetti
+* Angelo Avelino
 ## 🛒FAST:
 Time responsável pelos projetos voltados para a empresa FAST que busca uma solução para as dores de um projeto de um armario que armazena peças para reparos
 ### Chamado de Peças de Reposição:
-
+* Edivaldo Junior
+* José Alexandre
+* Mateus Gonçalves
+* Joao Pedro
 ### Gestão de Ordens de Serviço:
-
+* Bruna Candido Rosa
+* Luiz Otavio Torrecillas Gil
+* Yussuf Gabriel Oliveira
+* Gabriel Masi
+* Rebeca Canin
 ### Análise de Dados de Ordens de Serviço:
-
+* Renato Junior
+* Mateus André
+* Lucas Bernardino
