@@ -8,10 +8,6 @@ Time responsável por testar os projetos para garantir o seu funcionamento.
 Time responsável pelos projetos voltados para stand-up NoWaste que busca trazer um meio alternativo e que aproveita mais dos materiais para produzir camisetas dentre esses projetos se encontra os seguintes:
 ## 🛒FAST:
 Time responsável pelos projetos voltados para a empresa FAST que busca uma solução para as dores de um projeto de um armario que armazena peças para reparos
-### Análise de Dados de Ordens de Serviço:
-* Renato Junior
-* Mateus André
-* Lucas Bernardino
 
 | Empresa\Startup| Membro | Time |
 |------------|------------------------|--------|
@@ -43,4 +39,6 @@ Time responsável pelos projetos voltados para a empresa FAST que busca uma solu
 | FAST | Yussuf Gabriel Oliveira | Gestão de Ordens de Serviço |
 | FAST | Gabriel Masi | Gestão de Ordens de Serviço |
 | FAST | Rebeca Canin | Gestão de Ordens de Serviço |
-| FAST |
+| FAST | Renato Junior | Análise de Dados de Ordens de Serviço |
+| FAST | Mateus André | Análise de Dados de Ordens de Serviço |
+| FAST | Lucas Bernardino | Análise de Dados de Ordens de Serviço |
