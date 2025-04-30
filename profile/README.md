@@ -6,6 +6,7 @@ Time responsável por gerir os outros grupos e por entrar em contato com o clien
 Time responsável por testar os projetos para garantir o seu funcionamento.
 ## 👕🌱​NoWaste:
 Time responsável pelos projetos voltados para stand-up NoWaste que busca trazer um meio alternativo e que aproveita mais dos materiais para produzir camisetas dentre esses projetos se encontra os seguintes:
+[Vue](https://github.com/25s1-Jornada/NoWaste)
 ## 🛒FAST:
 Time responsável pelos projetos voltados para a empresa FAST que busca uma solução para as dores de um projeto de um armario que armazena peças para reparos
 
