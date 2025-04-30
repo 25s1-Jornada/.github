@@ -11,6 +11,7 @@ Time responsável pelos projetos voltados para stand-up NoWaste que busca trazer
 Time responsável pelos projetos voltados para a empresa FAST que busca uma solução para as dores de um projeto de um armario que armazena peças para reparos.
 [Aqui tem o link do repositorio de demonstração da FAST](https://github.com/25s1-Jornada/FAST-Showcase)
 
+## 👨‍👩‍👧‍👦Divisão de Grupos
 | Empresa\Startup| Membro | Time |
 |------------|------------------------|--------|
 | NoWaste | Arthur Miguel Borges Monteiro | Gestão |
