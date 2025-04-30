@@ -30,10 +30,10 @@ Time responsável pelos projetos voltados para a empresa FAST que busca uma solu
 | FAST | Danilo Cossiolo Dias | Q.A |
 | FAST | Gustavo da Silva Corsino | Q.A |
 | FAST | Lucas Kiyoshi Ota Porpeta | Q.A |
-| FAST | Edivaldo Junior | Chamado de Peças de Reposição |
-| FAST | José Alexandre | Chamado de Peças de Reposição |
-| FAST | Mateus Gonçalves | Chamado de Peças de Reposição |
-| FAST | Joao Pedro | Chamado de Peças de Reposição |
+| FAST | Edivaldo Junior | QR |
+| FAST | José Alexandre | QR |
+| FAST | Mateus Gonçalves | QR |
+| FAST | Joao Pedro | QR |
 | FAST | Bruna Candido Rosa | Gestão de Ordens de Serviço |
 | FAST | Luiz Otavio Torrecillas Gil | Gestão de Ordens de Serviço |
 | FAST | Yussuf Gabriel Oliveira | Gestão de Ordens de Serviço |
